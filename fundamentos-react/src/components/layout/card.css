@@ -1,0 +1,19 @@
+.Card {
+  margin: 20px;
+  background-color: rgba(221, 215, 223, 0.676);
+  border: 3px solid rgba(142, 138, 143, 0.676);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.Card .Titulo {
+  background-color: rgb(235, 61, 8);
+  padding: 5px 0px;
+  font-family: fantasy;
+  display: flex;
+  justify-content: center;
+}
+.Card .Conteudo {
+  color: #040404;
+  padding: 10px;
+  font-size: 1rem;
+}
